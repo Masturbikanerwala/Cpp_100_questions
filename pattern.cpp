@@ -1,4 +1,4 @@
-// no 1  pattern
+// No 1  pattern
 
 // #include <iostream>
 // using namespace std;
@@ -17,7 +17,7 @@
 
 //     }
 
-// no 2 pattern
+// No 2 pattern
 
 // #include <iostream>
 // using namespace std;
@@ -36,7 +36,7 @@
 
 //     }
 
-// no 3 pattern
+// No 3 pattern
 
 // #include <iostream>
 // using namespace std;
@@ -55,7 +55,7 @@
 
 //     }
 
-// no 4 pattern
+// No 4 pattern
 
 // #include <iostream>
 // using namespace std;
@@ -75,7 +75,7 @@
 //     }
 // }
 
-// no 5 pattern
+// No 5 pattern
 
 // #include <iostream>
 // using namespace std;
@@ -94,7 +94,7 @@
 //     }
 // }
 
-// no 6 pattern
+// No 6 pattern
 
 // #include <iostream>
 // using namespace std;
@@ -117,7 +117,7 @@
 // }
 
 
- //no 7 pattern
+ //No 7 pattern
 
 // #include <iostream>
 // using namespace std;
@@ -137,7 +137,7 @@
 //     }
 // }
 
-//no 8 pattern
+//No 8 pattern
 
 #include <iostream>
 using namespace std;
