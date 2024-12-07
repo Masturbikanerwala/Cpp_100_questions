@@ -13,9 +13,6 @@ int adiition(int data)
 
 int main()
 {
-    int data;
-    cout << "enter your number range : ";
-    cin >> data;
     int result = adiition(1);
     cout << result << endl;
 }
